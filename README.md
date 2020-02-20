@@ -1,8 +1,9 @@
-UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
-										  FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
-											  ALGORITMOS Y ESTRUCTURA DE DATOS
-														   2020-1
-					                                     PRÁCTICA #3
+					UNIVERSIDAD AUTÓNOMA DE BAJA CALIFORNIA
+			              FACULTAD DE CIENCIAS QUÍMICAS E INGENIERÍA
+					   ALGORITMOS Y ESTRUCTURA DE DATOS
+						       2020-1
+	                                             PRÁCTICA #3
+
 Alumnos:
 
 	* Cota Robledo Benjamín [1225836]
